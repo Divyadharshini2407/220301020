@@ -1,2 +1,2 @@
 # 220301020
-Python programming in course Programiing and Problem solving in python
+Python programming in course Programing and Problem solving in python
